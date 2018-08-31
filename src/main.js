@@ -1,9 +1,8 @@
 const defaultColors = [
-  '#a864fd',
-  '#29cdff',
-  '#78ff44',
-  '#ff718d',
-  '#fdff6a'
+  '#00aaee',
+  '#ffffff',
+  '#e5e5e5',
+  '#1bace3'
 ];
 
 function createElements(root, elementCount, colors) {
